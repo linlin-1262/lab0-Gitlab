@@ -4,5 +4,5 @@ int main()
 {
     // @TODO: print a sentence you want.
     printf("Hello, world!\n");
-    printf("for conflict\n");
+    printf("final version\n");
 }
